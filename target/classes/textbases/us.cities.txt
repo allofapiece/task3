@@ -1,0 +1,96 @@
+Abilene, Texas
+Akron, Ohio
+Albuquerque, New Mexico
+Alexandria Virginia
+Allentown, Pennsylvania
+Amarillo, Texas
+Aurora, Colorado
+Aurora, Illinois
+Austin, Texas
+Bakersfield, California
+Baltimore Maryland
+Baton, Rouge, Louisiana
+Beaumont, Texas
+Bellevue, Washington
+Berkeley, California
+Billings, Montana
+Birmingham, Alabama
+Boise, Idaho
+Boston Massachusetts
+Boulder, Colorado
+Bridgeport, Connecticut
+Centennial, Colorado
+Chandler, Arizona
+Charleston, South Carolina
+Charlotte, North Carolina
+Chattanooga, Tennessee
+Chesapeake Virginia
+Chicago, Illinois
+Chula Vista, California
+Cincinnati, Ohio
+Clarksville, Tennessee
+Clearwater, Florida
+Cleveland, Ohio
+Colorado Springs, Colorado
+Columbia, South Carolina
+Columbia, Missouri
+Columbus, Ohio
+Columbus, Georgia
+Concord, California
+Coral, Springs, Florida
+Corona, California
+Corpus, Christi, Texas
+Costa, California
+Daly, California
+Davenport, Iowa
+Denton, Texas
+Denver, Colorado
+Des Moines, Iowa
+Detroit, Michigan
+Downey, California
+Elgin, Illinois
+Elizabeth, New Jersey
+New York, New York
+Newark, New Jersey
+Newport, News Virginia
+Norfolk Virginia
+Pembroke Pines, Florida
+Peoria, Arizona
+Peoria, Illinois
+Philadelphia Pennsylvania
+Phoenix, Arizona
+Pittsburgh, Pennsylvania
+Pomona, California
+Pompano Beach, Florida
+Port St Lucie, Florida
+Portland, Oregon
+Providence, Rhode Island
+Provo, Utah
+Pueblo, Colorado
+Rancho Cucamonga, California
+Roseville, California
+Round Rock, Texas
+Salem, Oregon
+Salinas, California
+Salt Lake City, Utah
+San, Antonio, Texas
+Santa, Rosa, California
+Savannah, Georgia
+Scottsdale, Arizona
+Seattle, Washington
+Shreveport, Louisiana
+Simi, Valley, California
+Sioux,  South Dakota
+ Bend, Indiana
+Spokane, Washington
+Springfield, Massachusetts
+Springfield, Illinois
+St Louis, Missouri
+St Paul, Minnesota
+St Petersburg, Florida
+Stamford, Connecticut
+Sterling, Michigan
+Stockton, California
+Winston-Salem, North Carolina
+Worcester Massachusetts
+Yonkers, New York
