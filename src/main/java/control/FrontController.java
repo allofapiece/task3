@@ -21,9 +21,7 @@ public class FrontController extends HttpServlet {
             resp.sendRedirect(DEFAULT_PAGE);
         }
 
-        if(page.equals("hello")){
-            resp.sendRedirect("/hello");
-        } else if(page.equals("service")) {
+        if(page.equals("service")) {
             RequestDispatcher requestDispatcher = req.getRequestDispatcher("/service");
             requestDispatcher.forward(req, resp);
         } else {

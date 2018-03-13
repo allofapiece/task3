@@ -67,11 +67,6 @@ public class RecordDAOImpl implements RecordDAO {
             records.add(record);
             System.out.println(i);
         }
-        /*createCities();
-        createStreets();
-        createFirstNames();
-        createSurnames();
-        createNumbers();*/
         /*addNewSourceFiles();
         for(int i=0; i<amountOfRecords; i++){
             Record record = new Record();

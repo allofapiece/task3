@@ -3,8 +3,8 @@ package entity;
 public class Request {
     private String region;
     private String typeOfMistake;
-    private int percent;
     private int amountOfRecords;
+    private int mistakesAmount;
     private String typeOfFile;
 
     public Request() {
@@ -15,13 +15,8 @@ public class Request {
         return region;
     }
 
-    public String getTypeOfMistake() {
-        return typeOfMistake;
-    }
 
-    public int getPercent() {
-        return percent;
-    }
+
 
     public int getAmountOfRecords() {
         return amountOfRecords;
@@ -31,16 +26,17 @@ public class Request {
         return typeOfFile;
     }
 
+
+    public int getMistakesAmount() {
+        return mistakesAmount;
+    }
+
     public void setRegion(String region) {
         this.region = region;
     }
 
-    public void setTypeOfMistake(String typeOfMistake) {
-        this.typeOfMistake = typeOfMistake;
-    }
-
-    public void setPercent(int percent) {
-        this.percent = percent;
+    public void setMistakesAmount(int mistakesAmount) {
+        this.mistakesAmount = mistakesAmount;
     }
 
     public void setAmountOfRecords(int amountOfRecords) {
